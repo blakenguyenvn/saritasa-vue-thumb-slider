@@ -1,4 +1,4 @@
-# srt-thumb-slider
+# Saritasa Vuejs Thumbnail Slider Component
 
 > Saritasa thumbnail slider component for vuejs
 
